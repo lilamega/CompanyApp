@@ -1,0 +1,3 @@
+To use the application :
+go to the ERS folder, 
+then download the zip file named 'ERS_V1.zip' and run the executable 'ERS.exe'
