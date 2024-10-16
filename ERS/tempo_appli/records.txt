@@ -1,0 +1,5 @@
+michel,34,chef
+lilo,1,no
+lila,21,student
+mario,24,kine
+jean,5,child
